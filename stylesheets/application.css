@@ -1,0 +1,33 @@
+body {
+  background-color: #000000;
+  background-image:url('../background.jpg');
+  background-repeat:repeat;
+  color: #000000;
+}
+
+.row {
+  text-align: center;
+  height: 800px;
+}
+
+.thumbnail {
+  border-style: none;
+  margin-top: 120px;
+}
+
+.thumbnail img {
+  width: 940px;
+}
+
+.caption {
+  color: #999999 !important;
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: lighter;
+  font-family: Helvetica;
+}
+
+.date {
+  color: #bbbbbb;
+  font-weight: bold;
+}
