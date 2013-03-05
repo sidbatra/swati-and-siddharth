@@ -1,6 +1,6 @@
 body {
   background-color: #000000;
-  background-image:url('../background.jpg');
+  background-image:url('../images/background.jpg');
   background-repeat:repeat;
   color: #000000;
 }
@@ -16,7 +16,7 @@ body {
 }
 
 .thumbnail img {
-  width: 940px;
+  width: 950px;
 }
 
 .caption {
